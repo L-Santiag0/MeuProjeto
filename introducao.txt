@@ -1,0 +1,3 @@
+
+Será criado uma aplicação para organizar a fila de algumas barracas
+numa praça de alimentação. (Breve introdução ex02)
