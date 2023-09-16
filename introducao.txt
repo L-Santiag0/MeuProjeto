@@ -1,3 +1,5 @@
 
 Será criado uma aplicação para organizar a fila de algumas barracas
 numa praça de alimentação. (Breve introdução ex02)
+
+Implementação de um sistema de pagamentos: cartão de crédito e pix. (ex03)
